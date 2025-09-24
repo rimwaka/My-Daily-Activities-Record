@@ -21,7 +21,7 @@
         4. Threats.
   Tiresomeness comes with vices such as poor coordination among the team members. Some of the goals end up never being met.
   
-![SWOT Chart](assets/swot.png)
+![SWOT Chart](assets/24-09-2025_swot.png)
 
 ## Summary.
     The tasks were well done, with the overhead cable running, 1 enclosure box installed, and straight splices made at two points.
