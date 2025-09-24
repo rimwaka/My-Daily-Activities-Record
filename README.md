@@ -1,9 +1,5 @@
-# My-Daily-Activities-Record
-This repository highlights my daily activities throughout the day.
 
-Every day, we have choices to make. I choose to put my activities down. The highlight will include the date, a brief description, and a SWOT Analysis.
-
-## 24-09-2025
+### 24-09-2025
 
 ## Today is September 24, 2025.
 
@@ -15,16 +11,20 @@ Every day, we have choices to make. I choose to put my activities down. The high
 ## SWOT Analysis.
         1. Strengths.
   The Objectives were feasible; we had all the tools, materials, and an experienced team to do this work.
+       
         2. Weaknesses.
   The team was small, composed of three individuals; we found it hard to navigate around the overgrown vegetation along the road reserve.
+        
         3. Opportunities.
   It was a good opportunity for us as a team to bond, engage the local community, evangelise about the services we offer, and improve and expand our network to serve more customers.
+        
         4. Threats.
   Tiresomeness comes with vices such as poor coordination among the team members. Some of the goals end up never being met.
   
 ![SWOT Chart](assets/swot.png)
 
 ## Summary.
-  The tasks were well done, with the overhead cable running, 1 enclosure box installed, and straight splices made at two points.
+    The tasks were well done, with the overhead cable running, 1 enclosure box installed, and straight splices made at two points.
 
-Parting short, how do you utilize fully your skills and knowledge?
+## Parting short.
+    How do you utilize fully your skills and knowledge?
