@@ -1,5 +1,5 @@
 
-### 24-09-2025
+#### 24-09-2025
 
 ## Today is September 24, 2025.
 
@@ -27,4 +27,20 @@
     The tasks were well done, with the overhead cable running, 1 enclosure box installed, and straight splices made at two points.
 
 ## Parting short.
-    How do you utilize fully your skills and knowledge?
+    How do you utilize fully your skills and knowledge???
+
+#### 25-09-2025
+
+## Today is September 25, 2025.
+
+## Brief Description:
+    It has been hectic, tiresome, and demotivating. Do you remember the unachieved goals? They were still there waiting for my team.
+    Today we did a clean-up within a splice box, which involves breaking the splices, extracting some of the cables (their cores), and rearranging them inside a new splice box.
+    Our goals today were to perform straight splices in one enclosure, clean up a splice box, and deliver a signal (End Goal).
+
+## Summary.
+    We were a team of four, which was an improvement. 
+    Straight splices were made, a clean-up was achieved, and the signal is yet to be delivered.
+
+### Parting short.
+    How do you handle an unscheduled activity that appears on the 90+7 minute mark when the match was scheduled to end on the 96th minute?
