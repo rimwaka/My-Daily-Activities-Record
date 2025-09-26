@@ -44,3 +44,21 @@
 
 ### Parting short.
     How do you handle an unscheduled activity that appears on the 90+7 minute mark when the match was scheduled to end on the 96th minute?
+
+### 26-09-2025
+
+## Today is September 26, 2025.
+
+## Brief Description:
+    It has been a furahi-day (Friday) on my end, I should play "Dundaing" as I write this.
+    Being a team of two, we managed to splice straight through two splice boxes, run a 12C ADSS cable of a hundred meters.
+    Splice on the ends and pass our intended signal.
+        # How do you run an overhead ADSS cable??
+You need tools such as a hammer, a banding tool. Materials such as the cable, Universal Pole Brackets (UPBs), tension clamps, aluminium/steel straps, and buckles are needed. 
+You also need essential safety gear and an experienced team.
+
+## Summary.
+    It has been a fruitful day.
+
+### Parting short.
+    I hope you keep exploring. There is so much to learn out here. I hope this Rosemary plant sprouts some roots.
